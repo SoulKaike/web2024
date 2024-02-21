@@ -11,7 +11,8 @@
 }
 
 body {
-    background-color: rgb(228, 190, 223);
+    background-color: #38184C;
+    color :rgb(231, 196, 0);
     font-family: "Audiowide", sans-serif;
 }
 
@@ -21,7 +22,7 @@ h3 {
 
 p {
     font-family: "Arial", sans-serif;
-    text-align: justify;
+    text-align: justify; 
 }
 
 #texto-footer {
